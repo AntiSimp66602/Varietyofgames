@@ -1,0 +1,110 @@
+/* GLOBAL*/
+* {margin = 0; padding = 0;}
+/*pon*/
+
+body {font-family: cursive; background-color: #000000}
+
+#main-nav{
+    background-color: #9f9f9f;
+    height= 100x;
+    text-align: right;
+}
+
+#main-menu {list-style: none}
+
+.main-menu-item{display: inline-block}
+
+.main-menu-item a{
+    color: rgb(0, 172, 26);
+    background-color: #000000;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.main-menu-item a:hover{
+    background-color: rgb(0, 52, 8)
+}
+
+.logo {
+    float: left
+}
+
+.cover{
+    background: url(images/5.png);
+    background-position: center;
+    background-size: cover;
+    padding: 100px 20%;
+    color: rgb(0, 172, 26);
+}
+.cover1{
+    background: url(images/2024-08-19_15-50-17.png);
+    background-size: cover;
+    background-position: center;
+    padding: 50px 5%;
+    color: rgb(0, 172, 26);
+    
+}
+
+.cover-dimmer{
+    background: rgba(0,0,0,0.5);
+    border-radius: 10px;
+    padding: 10px
+}
+.stil{
+    color: rgb(0, 172, 26);
+    
+}
+.subhead{
+    color:rgb(0, 172, 26)
+}
+.youtube-name{
+    color: rgb(0, 172, 26)
+}
+.serv-descr{
+    color: rgb(0, 172, 26)
+}
+.services{
+    width: 80%;
+    margin:auto;
+    padding-top: 4rem;
+    text-align: center;
+}
+.stil{
+    padding-bottom: 1rem;
+    font-size: 2rem;
+}
+.subhead{
+    font-size: 1.5rem;
+    padding-bottom: 2rem;
+}
+.service{
+    float: left;
+    width: 27%;
+    border: solid 2px rgb(0, 172, 26);
+    margin: 1%;
+    padding: 2%
+}
+.youtube{
+    width: 100%;
+    
+}
+.button-service{
+    padding: .5rem;
+    background-color: black;
+    background: rgb(0, 172, 26);
+    border:0;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.button-service:hover{
+    background-color: rgb(0, 52, 8)
+}
+.youtube-name{
+    font-size:1.7rem
+}
+.number{
+    color:rgb(0, 172, 26);
+    font-size: 2rem
+}
