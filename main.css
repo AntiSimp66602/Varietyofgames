@@ -96,7 +96,7 @@ body {font-family: cursive; background-color: #000000}
     background: rgb(0, 172, 26);
     border:0;
     border-radius: 5px;
-    text-decoration: none;
+    list-style: none;
 }
 .button-service:hover{
     background-color: rgb(0, 52, 8)
