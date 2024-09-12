@@ -32,14 +32,14 @@ body {font-family: cursive; background-color: #000000}
 }
 
 .cover{
-    background: url(images/5.png);
+    background: url(images/5.PNG);
     background-position: center;
     background-size: cover;
     padding: 100px 20%;
     color: rgb(0, 172, 26);
 }
 .cover1{
-    background: url(images/2024-08-19_15-50-17.png);
+    background: url(images/2024-08-19_15-50-17.PNG);
     background-size: cover;
     background-position: center;
     padding: 50px 5%;
