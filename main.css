@@ -6,7 +6,7 @@ body {font-family: cursive; background-color: #000000}
 
 #main-nav{
     background-color: #9f9f9f;
-    height= 100x;
+    height: 100x;
     text-align: right;
 }
 
@@ -108,3 +108,4 @@ body {font-family: cursive; background-color: #000000}
     color:rgb(0, 172, 26);
     font-size: 2rem
 }
+
